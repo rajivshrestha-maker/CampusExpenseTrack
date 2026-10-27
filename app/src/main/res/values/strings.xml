@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CampusExpenseTrack</string>
+    <string name="student_name">Rajib Shrestha</string>
+    <string name="student_id">2025621102</string>
+    <string name="budget_overview">Budget Overview</string>
+    <string name="add_new_expense">Add New Expense</string>
+    <string name="view_history">View History</string>
+    <string name="expense_title">Expense Title</string>
+    <string name="category_hint">Category (e.g., Food, Books)</string>
+    <string name="amount_hint">Amount ($)</string>
+    <string name="save_expense">Save Expense</string>
+    <string name="expense_history">Expense History</string>
+    <string name="db_status_ready">Database Status: Ready</string>
+</resources>
